@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'ngx-charts-yt';
+  snacks = [
+    { name: "Schokolade", value: 540 },
+    { name: "Banane", value: 89 },
+    { name: "Brezel", value: 360 },
+    { name: "Erdnüsse", value: 460 },
+    { name: "Apfel", value: 75 }
+  ];
 }
