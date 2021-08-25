@@ -2,7 +2,7 @@
  
 <a href="https://swimlane.gitbook.io/ngx-charts/">Ngx-Charts Dokumentation</a>
 <br />
-<a href="https://mareikewendler.netlify.app/">HIer ist mein Portfolio.</a>
+Hier ist mein <a href="https://mareikewendler.netlify.app/">Portfolio</a>.
 <br />
-<a href="https://www.linkedin.com/in/mareike-wendler/">Finde mich auf LinkedIn!</a>
+Finde mich auf <a href="https://www.linkedin.com/in/mareike-wendler/">LinkedIn</a>!
 
